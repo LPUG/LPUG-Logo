@@ -8,4 +8,4 @@ If you have any kind of critique or improvement suggestions please let me know, 
 
 ## TODO
 
-- use colors from official python logo
+Nothing to do.
