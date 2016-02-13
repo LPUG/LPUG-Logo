@@ -9,3 +9,5 @@ If you have any kind of critique or improvement suggestions please let me know, 
 ## TODO
 
 - [x] fix line widths
+- [ ] same linewidth for snake tongue
+- [ ] rounded corner at bottom right of the `L`
